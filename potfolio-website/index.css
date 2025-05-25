@@ -1,0 +1,47 @@
+.header {
+    background: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    padding: 8px;
+}
+
+.nav-bar-list {
+    background-color: rgb(51, 51, 188);
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+    color: azure;
+}
+
+h2 {
+    color: rgb(55, 55, 190);
+}
+
+.project-div {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.main-project-div {
+    display: flex;
+}
+
+footer {
+    background: #03045e;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
