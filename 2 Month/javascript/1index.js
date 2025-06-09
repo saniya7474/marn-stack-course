@@ -15,7 +15,7 @@ console.log("My name is Saniya Alase");
 const firstArray=["Saniya","Sabiya","Neha"]
 
 //Objects
-const firstObject{
+const firstObject={
     name : "saniya"
 }
 
